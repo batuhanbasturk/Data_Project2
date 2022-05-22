@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/Project2_BatuhanBasturk/cmake-build-debug/CMakeFiles/Project2.dir
+C:/Users/ASUS/Desktop/Project2_BatuhanBasturk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/Project2_BatuhanBasturk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
